@@ -1,0 +1,27 @@
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\bin\Debug\RegularMailJob.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\bin\Debug\RegularMailJob.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\bin\Debug\Common.Logging.Log4Net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\bin\Debug\log4net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\bin\Debug\Quartz.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\obj\Debug\RegularMailJob.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMailJob\obj\Debug\RegularMailJob.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\RegularMailJob.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\RegularMailJob.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\Common.Logging.Log4Net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\log4net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\Quartz.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\obj\Debug\RegularMailJob.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMailJob\obj\Debug\RegularMailJob.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\RegularMailJob.dll
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\RegularMailJob.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\Common.Logging.dll
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\Common.Logging.Log4Net.dll
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\log4net.dll
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\bin\Debug\Quartz.dll
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\obj\Debug\RegularMailJob.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\obj\Debug\RegularMailJob.dll
+E:\Dropbox\MyCode\RegularMail\RegularMailJob\obj\Debug\RegularMailJob.pdb

@@ -1,0 +1,51 @@
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.exe.config
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.exe
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\Common.Logging.Log4Net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\log4net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\Quartz.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\QuarzCommon.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\RegularMailJob.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\QuarzCommon.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\bin\Debug\RegularMailJob.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.Form1.resources
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.Properties.Resources.resources
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.exe
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.exe.config
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.exe
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.exe
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\Common.Logging.Log4Net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\log4net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\Quartz.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\QuarzCommon.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMailJob.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\QuarzCommon.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMailJob.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.Form1.resources
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.Properties.Resources.resources
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.csproj.GenerateResource.Cache
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.exe.config
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.exe
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.exe
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMail.WinUI.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\Common.Logging.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\Common.Logging.Log4Net.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\log4net.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\Quartz.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\QuarzCommon.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMailJob.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\QuarzCommon.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\bin\Debug\RegularMailJob.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.Form1.resources
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.Properties.Resources.resources
+E:\Dropbox\MyCode\RegularMail\RegularMail.WinUI\obj\Debug\RegularMail.WinUI.csproj.GenerateResource.Cache

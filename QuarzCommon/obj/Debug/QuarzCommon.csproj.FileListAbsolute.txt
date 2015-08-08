@@ -1,0 +1,58 @@
+D:\GSMClearLog\GSMClearLog\QuarzCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\QuarzCommon.dll
+D:\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\QuarzCommon.pdb
+D:\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Common.Logging.dll
+D:\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Common.Logging.Log4Net.dll
+D:\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\log4net.dll
+D:\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Model.dll
+D:\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Quartz.dll
+D:\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Model.pdb
+D:\GSMClearLog\GSMClearLog\QuarzCommon\obj\Debug\QuarzCommon.dll
+D:\GSMClearLog\GSMClearLog\QuarzCommon\obj\Debug\QuarzCommon.pdb
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\QuarzCommon.dll
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\QuarzCommon.pdb
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Common.Logging.dll
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Common.Logging.Log4Net.dll
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\log4net.dll
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Model.dll
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Quartz.dll
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\bin\Debug\Model.pdb
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\obj\Debug\ResolveAssemblyReference.cache
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\obj\Debug\QuarzCommon.dll
+E:\Boco\GSMClearLog\GSMClearLog\QuarzCommon\obj\Debug\QuarzCommon.pdb
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\bin\Debug\QuarzCommon.dll
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\bin\Debug\QuarzCommon.pdb
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\bin\Debug\Common.Logging.dll
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\bin\Debug\Common.Logging.Log4Net.dll
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\bin\Debug\log4net.dll
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\bin\Debug\Quartz.dll
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\obj\Debug\ResolveAssemblyReference.cache
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\obj\Debug\QuarzCommon.dll
+E:\test\download\MyTimingExecution\TimingMail\QuarzCommon\obj\Debug\QuarzCommon.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\bin\Debug\QuarzCommon.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\bin\Debug\QuarzCommon.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\bin\Debug\Common.Logging.Log4Net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\bin\Debug\log4net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\bin\Debug\Quartz.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\obj\Debug\QuarzCommon.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\QuarzCommon\obj\Debug\QuarzCommon.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\QuarzCommon.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\QuarzCommon.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\Common.Logging.Log4Net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\log4net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\Quartz.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\obj\Debug\QuarzCommon.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\QuarzCommon\obj\Debug\QuarzCommon.pdb
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\QuarzCommon.dll
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\QuarzCommon.pdb
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\Common.Logging.dll
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\Common.Logging.Log4Net.dll
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\log4net.dll
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\bin\Debug\Quartz.dll
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\obj\Debug\QuarzCommon.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\obj\Debug\QuarzCommon.dll
+E:\Dropbox\MyCode\RegularMail\QuarzCommon\obj\Debug\QuarzCommon.pdb

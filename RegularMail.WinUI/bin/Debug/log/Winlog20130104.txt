@@ -1,0 +1,234 @@
+2013-01-04 10:14:23[4168][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 10:14:23[4168][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 10:14:23[4168][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 10:14:23[4168][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 10:14:23[4168][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 10:14:23[4168][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 10:14:28[5228][INFO ][RegularMail.WinUI.Form1]Starting service
+
+2013-01-04 10:14:28[5228][INFO ][RegularMail.WinUI.Form1]------- Scheduling Jobs ----------------
+
+2013-01-04 10:14:30[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 10:14:30[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 10:14:30[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+
+2013-01-04 10:15:00[默认调度器_Worker-2][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 10:15:00[默认调度器_Worker-2][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 10:15:00[默认调度器_Worker-2][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+
+2013-01-04 10:15:30[默认调度器_Worker-3][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 10:15:30[默认调度器_Worker-3][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 10:15:30[默认调度器_Worker-3][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+
+2013-01-04 10:15:55[4168][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 10:15:55[4168][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 10:15:55[4168][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 11:16:22[4200][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 11:16:22[4200][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 11:16:22[4200][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 11:16:22[4200][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 11:16:22[4200][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 11:16:22[4200][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 11:16:23[5192][INFO ][RegularMail.WinUI.Form1]Starting service
+
+2013-01-04 11:16:23[5192][INFO ][RegularMail.WinUI.Form1]------- Scheduling Jobs ----------------
+
+2013-01-04 11:16:24[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 11:16:24[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 11:16:24[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+
+2013-01-04 11:19:05[6140][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 11:19:05[6140][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 11:19:05[6140][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 11:19:05[6140][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 11:19:05[6140][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 11:19:05[6140][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 11:19:06[5636][INFO ][RegularMail.WinUI.Form1]Starting service
+
+2013-01-04 11:19:06[5636][INFO ][RegularMail.WinUI.Form1]------- Scheduling Jobs ----------------
+
+2013-01-04 11:19:07[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 11:19:07[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 11:19:07[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+
+2013-01-04 11:20:02[4588][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 11:20:02[4588][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 11:20:02[4588][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 11:20:02[4588][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 11:20:02[4588][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 11:20:02[4588][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 11:20:03[5488][INFO ][RegularMail.WinUI.Form1]Starting service
+
+2013-01-04 11:20:03[5488][INFO ][RegularMail.WinUI.Form1]------- Scheduling Jobs ----------------
+
+2013-01-04 11:20:04[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 11:20:04[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 11:20:04[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+
+2013-01-04 11:21:53[5460][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 11:21:53[5460][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 11:21:53[5460][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 11:21:53[5460][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 11:21:53[5460][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 11:21:53[5460][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 11:21:54[2728][INFO ][RegularMail.WinUI.Form1]Starting service
+
+2013-01-04 11:21:54[2728][INFO ][RegularMail.WinUI.Form1]------- Scheduling Jobs ----------------
+
+2013-01-04 11:21:55[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 11:21:55[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+
+2013-01-04 13:45:06[5460][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 13:45:06[5460][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 13:45:06[5460][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 15:10:06[4592][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 15:10:06[4592][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 15:10:06[4592][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 15:10:06[4592][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 15:10:06[4592][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 15:10:06[4592][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 15:10:07[4592][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 15:10:07[4592][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 15:10:07[4592][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 16:06:54[5660][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 16:06:54[5660][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 16:06:54[5660][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 16:06:54[5660][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 16:06:54[5660][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 16:06:54[5660][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 16:06:59[2184][INFO ][RegularMail.WinUI.Form1]Starting service
+
+2013-01-04 16:06:59[2184][INFO ][RegularMail.WinUI.Form1]------- Scheduling Jobs ----------------
+
+2013-01-04 16:07:00[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 16:07:00[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+
+2013-01-04 16:07:30[5660][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 16:07:30[5660][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 16:07:30[5660][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 16:09:04[4288][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 16:09:04[4288][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 16:09:04[4288][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 16:09:04[4288][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 16:09:04[4288][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 16:09:04[4288][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 16:09:05[2108][INFO ][RegularMail.WinUI.Form1]Starting service
+
+2013-01-04 16:09:05[2108][INFO ][RegularMail.WinUI.Form1]------- Scheduling Jobs ----------------
+
+2013-01-04 16:09:06[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10248customerid:10248name:Vins et alcools Chevalier16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10249customerid:10249name:Toms Spezialit?ten16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10250customerid:10250name:Hanari Carnes16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10251customerid:10251name:Victuailles en stock16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10252customerid:10252name:Suprêmes délices16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10253customerid:10253name:Hanari Carnes16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10254customerid:10254name:Chop-suey Chinese16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10255customerid:10255name:Richter Supermarkt16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10256customerid:10256name:Wellington Importadora16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 orderid:10257customerid:10257name:HILARION-Abastos16:09:08 执行！
+
+2013-01-04 16:09:08[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Execution was Executed。
+
+

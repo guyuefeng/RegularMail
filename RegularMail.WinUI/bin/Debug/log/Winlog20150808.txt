@@ -1,0 +1,25 @@
+2015-08-08 16:13:51[3444][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2015-08-08 16:13:51[3444][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2015-08-08 16:13:51[3444][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2015-08-08 16:13:51[3444][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2015-08-08 16:13:51[3444][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2015-08-08 16:13:51[3444][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2015-08-08 16:13:53[7904][INFO ][RegularMail.WinUI.Form1]Starting service
+
+2015-08-08 16:13:53[7904][INFO ][RegularMail.WinUI.Form1]------- Scheduling Jobs ----------------
+
+2015-08-08 16:13:54[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： group1.job1 Is about to be executed。
+
+
+2015-08-08 16:13:59[3444][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2015-08-08 16:13:59[3444][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2015-08-08 16:13:59[3444][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+

@@ -1,0 +1,212 @@
+2013-01-04 15:05:16[3052][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 15:05:16[3052][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 15:05:16[3052][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 15:05:16[3052][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 15:05:16[3052][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 15:05:16[4408][ERROR][RegularMail.Service.RegularMailService]service started fail
+Quartz.ObjectAlreadyExistsException: Unable to store Job with name: '打印测试文件' and group: 'dc2d4a0b3bd049aa84b89f4888db80a0', because one already exists with this identification.
+   在 Quartz.Simpl.RAMJobStore.StoreJob(SchedulingContext ctxt, JobDetail newJob, Boolean replaceExisting)
+   在 Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(SchedulingContext ctxt, JobDetail newJob, Trigger newTrigger)
+   在 Quartz.Core.QuartzScheduler.ScheduleJob(SchedulingContext ctxt, JobDetail jobDetail, Trigger trigger)
+   在 Quartz.Impl.StdScheduler.ScheduleJob(JobDetail jobDetail, Trigger trigger)
+   在 RegularMail.Service.RegularMailService.OnStart(String[] args) 位置 C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\RegularMailService.cs:行号 53
+
+2013-01-04 15:05:16[4408][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 15:05:16[4408][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 15:05:16[4408][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 15:05:16[4408][INFO ][RegularMail.Service.RegularMailService]service stopped ok
+
+2013-01-04 15:05:27[2268][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 15:05:27[2268][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 15:05:27[2268][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 15:05:27[2268][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 15:05:27[2268][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 15:05:27[5040][ERROR][RegularMail.Service.RegularMailService]service started fail
+Quartz.ObjectAlreadyExistsException: Unable to store Job with name: '打印测试文件' and group: '97fe9406dd8e494b9a42dd2069d07c31', because one already exists with this identification.
+   在 Quartz.Simpl.RAMJobStore.StoreJob(SchedulingContext ctxt, JobDetail newJob, Boolean replaceExisting)
+   在 Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(SchedulingContext ctxt, JobDetail newJob, Trigger newTrigger)
+   在 Quartz.Core.QuartzScheduler.ScheduleJob(SchedulingContext ctxt, JobDetail jobDetail, Trigger trigger)
+   在 Quartz.Impl.StdScheduler.ScheduleJob(JobDetail jobDetail, Trigger trigger)
+   在 RegularMail.Service.RegularMailService.OnStart(String[] args) 位置 C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\RegularMailService.cs:行号 53
+
+2013-01-04 15:05:27[5040][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 15:05:27[5040][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 15:05:27[5040][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 15:05:27[5040][INFO ][RegularMail.Service.RegularMailService]service stopped ok
+
+2013-01-04 15:05:36[1832][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 15:05:36[1832][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 15:05:36[1832][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 15:05:36[1832][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 15:05:36[1832][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 15:05:36[2568][ERROR][RegularMail.Service.RegularMailService]service started fail
+Quartz.ObjectAlreadyExistsException: Unable to store Job with name: '打印测试文件' and group: '33867f0ef4a5495ab797ca8bf6f2e41e', because one already exists with this identification.
+   在 Quartz.Simpl.RAMJobStore.StoreJob(SchedulingContext ctxt, JobDetail newJob, Boolean replaceExisting)
+   在 Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(SchedulingContext ctxt, JobDetail newJob, Trigger newTrigger)
+   在 Quartz.Core.QuartzScheduler.ScheduleJob(SchedulingContext ctxt, JobDetail jobDetail, Trigger trigger)
+   在 Quartz.Impl.StdScheduler.ScheduleJob(JobDetail jobDetail, Trigger trigger)
+   在 RegularMail.Service.RegularMailService.OnStart(String[] args) 位置 C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\RegularMailService.cs:行号 53
+
+2013-01-04 15:05:36[2568][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 15:05:36[2568][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 15:05:36[2568][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 15:05:36[2568][INFO ][RegularMail.Service.RegularMailService]service stopped ok
+
+2013-01-04 15:05:58[4864][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 15:05:58[4864][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 15:05:58[4864][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 15:05:58[4864][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 15:05:58[4864][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 15:05:58[4512][ERROR][RegularMail.Service.RegularMailService]service started fail
+Quartz.ObjectAlreadyExistsException: Unable to store Job with name: '打印测试文件' and group: 'd648d2cf516c43c191b3c7cb5cc1c9ec', because one already exists with this identification.
+   在 Quartz.Simpl.RAMJobStore.StoreJob(SchedulingContext ctxt, JobDetail newJob, Boolean replaceExisting)
+   在 Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(SchedulingContext ctxt, JobDetail newJob, Trigger newTrigger)
+   在 Quartz.Core.QuartzScheduler.ScheduleJob(SchedulingContext ctxt, JobDetail jobDetail, Trigger trigger)
+   在 Quartz.Impl.StdScheduler.ScheduleJob(JobDetail jobDetail, Trigger trigger)
+   在 RegularMail.Service.RegularMailService.OnStart(String[] args) 位置 C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\RegularMailService.cs:行号 53
+
+2013-01-04 15:05:58[4512][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 15:05:58[4512][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 15:05:58[4512][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 15:05:58[4512][INFO ][RegularMail.Service.RegularMailService]service stopped ok
+
+2013-01-04 15:08:42[5636][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 15:08:42[5636][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 15:08:42[5636][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 15:08:42[5636][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 15:08:42[5636][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 15:08:42[3076][INFO ][RegularMail.Service.RegularMailService]任务:9ce98034fae44389ac954cfa0e614941.打印测试文件 已经调度成功！
+
+2013-01-04 15:08:42[3076][ERROR][RegularMail.Service.RegularMailService]service started fail
+Quartz.ObjectAlreadyExistsException: Unable to store Trigger with name: '打印' and group: 'group1', because one already exists with this identification.
+   在 Quartz.Simpl.RAMJobStore.StoreTrigger(SchedulingContext ctxt, Trigger newTrigger, Boolean replaceExisting)
+   在 Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(SchedulingContext ctxt, JobDetail newJob, Trigger newTrigger)
+   在 Quartz.Core.QuartzScheduler.ScheduleJob(SchedulingContext ctxt, JobDetail jobDetail, Trigger trigger)
+   在 Quartz.Impl.StdScheduler.ScheduleJob(JobDetail jobDetail, Trigger trigger)
+   在 RegularMail.Service.RegularMailService.OnStart(String[] args) 位置 C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\RegularMailService.cs:行号 55
+
+2013-01-04 15:08:42[3076][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 15:08:42[3076][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 15:08:42[3076][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 15:08:42[3076][INFO ][RegularMail.Service.RegularMailService]service stopped ok
+
+2013-01-04 15:08:47[5216][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 15:08:47[5216][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 15:08:47[5216][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 15:08:47[5216][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 15:08:47[5216][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 15:08:47[4296][INFO ][RegularMail.Service.RegularMailService]任务:5edda610aabb4ea6afbb0feaee6c05ef.打印测试文件 已经调度成功！
+
+2013-01-04 15:08:47[4296][ERROR][RegularMail.Service.RegularMailService]service started fail
+Quartz.ObjectAlreadyExistsException: Unable to store Trigger with name: '打印' and group: 'group1', because one already exists with this identification.
+   在 Quartz.Simpl.RAMJobStore.StoreTrigger(SchedulingContext ctxt, Trigger newTrigger, Boolean replaceExisting)
+   在 Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(SchedulingContext ctxt, JobDetail newJob, Trigger newTrigger)
+   在 Quartz.Core.QuartzScheduler.ScheduleJob(SchedulingContext ctxt, JobDetail jobDetail, Trigger trigger)
+   在 Quartz.Impl.StdScheduler.ScheduleJob(JobDetail jobDetail, Trigger trigger)
+   在 RegularMail.Service.RegularMailService.OnStart(String[] args) 位置 C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\RegularMailService.cs:行号 55
+
+2013-01-04 15:08:47[4296][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 15:08:47[4296][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 15:08:47[4296][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 15:08:47[4296][INFO ][RegularMail.Service.RegularMailService]service stopped ok
+
+2013-01-04 15:10:51[1468][INFO ][Quartz.Core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+
+2013-01-04 15:10:51[1468][INFO ][Quartz.Core.QuartzScheduler]Quartz Scheduler v.1.0.0.3 created.
+
+2013-01-04 15:10:51[1468][INFO ][Quartz.Simpl.RAMJobStore]RAMJobStore initialized.
+
+2013-01-04 15:10:51[1468][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler '默认调度器' initialized
+
+2013-01-04 15:10:51[1468][INFO ][Quartz.Impl.StdSchedulerFactory]Quartz scheduler version: 1.0.0.3
+
+2013-01-04 15:10:51[5776][INFO ][RegularMail.Service.RegularMailService]任务:db8ebb6a75364dbcaccf843e1503b28e.打印测试文件 已经调度成功！
+
+2013-01-04 15:10:51[5776][INFO ][RegularMail.Service.RegularMailService]任务:192574c1f3314a1d98f5b559be3abc69.打印测试文件 已经调度成功！
+
+2013-01-04 15:10:51[5776][INFO ][RegularMail.Service.RegularMailService]任务:893219de842e4b8082a3c0b6f93e245a.打印测试文件 已经调度成功！
+
+2013-01-04 15:10:51[5776][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED started.
+
+2013-01-04 15:10:51[5776][INFO ][RegularMail.Service.RegularMailService]service started ok
+
+2013-01-04 15:15:00[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： 893219de842e4b8082a3c0b6f93e245a.打印测试文件 Is about to be executed。
+
+
+2013-01-04 15:15:00[默认调度器_Worker-1][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 15:15:00[默认调度器_Worker-1][INFO ][QuarzCommon.CustomJobListener]报表监视器： 893219de842e4b8082a3c0b6f93e245a.打印测试文件 Execution was Executed。
+
+
+2013-01-04 15:20:00[默认调度器_Worker-2][INFO ][QuarzCommon.CustomJobListener]报表监视器： db8ebb6a75364dbcaccf843e1503b28e.打印测试文件 Is about to be executed。
+
+
+2013-01-04 15:20:00[默认调度器_Worker-2][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 15:20:00[默认调度器_Worker-2][INFO ][QuarzCommon.CustomJobListener]报表监视器： db8ebb6a75364dbcaccf843e1503b28e.打印测试文件 Execution was Executed。
+
+
+2013-01-04 15:25:02[默认调度器_Worker-3][INFO ][QuarzCommon.CustomJobListener]报表监视器： 192574c1f3314a1d98f5b559be3abc69.打印测试文件 Is about to be executed。
+
+
+2013-01-04 15:25:02[默认调度器_Worker-3][INFO ][RegularMailJob.RegularMail_T2]任务测试 打印 2013-1-4 执行！
+
+2013-01-04 15:25:02[默认调度器_Worker-3][INFO ][QuarzCommon.CustomJobListener]报表监视器： 192574c1f3314a1d98f5b559be3abc69.打印测试文件 Execution was Executed。
+
+
+2013-01-04 16:06:29[4800][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED shutting down.
+
+2013-01-04 16:06:29[4800][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED paused.
+
+2013-01-04 16:06:29[4800][INFO ][Quartz.Core.QuartzScheduler]Scheduler 默认调度器_$_NON_CLUSTERED Shutdown complete.
+
+2013-01-04 16:06:29[4800][INFO ][RegularMail.Service.RegularMailService]service stopped ok
+

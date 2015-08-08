@@ -1,0 +1,51 @@
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe.config
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\Common.Logging.Log4Net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\log4net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\Quartz.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\QuarzCommon.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMailJob.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\QuarzCommon.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMailJob.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.ProjectInstaller.resources
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.RegularMailService.resources
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.csproj.GenerateResource.Cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.exe
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe.config
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\Common.Logging.Log4Net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\log4net.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\Quartz.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\QuarzCommon.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMailJob.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\QuarzCommon.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMailJob.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.ProjectInstaller.resources
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.RegularMailService.resources
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.csproj.GenerateResource.Cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.exe
+C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe.config
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\Common.Logging.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\Common.Logging.Log4Net.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\log4net.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\Quartz.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\QuarzCommon.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMailJob.dll
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\QuarzCommon.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMailJob.pdb
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.ProjectInstaller.resources
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.RegularMailService.resources
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.csproj.GenerateResource.Cache
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.exe
+E:\Dropbox\MyCode\RegularMail\RegularMail.Service\obj\Debug\RegularMail.Service.pdb

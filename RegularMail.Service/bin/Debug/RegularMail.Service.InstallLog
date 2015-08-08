@@ -1,0 +1,115 @@
+﻿正在卸载程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在移除 EventLog 源 RegularMailService。
+正在从系统中移除服务 RegularMailService...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务并未以已安装的服务存在。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在安装程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   i = 
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在安装服务 RegularMailService...
+已成功安装服务 RegularMailService。
+正在日志 Application 中创建 EventLog 源 RegularMailService...
+正在提交程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   i = 
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在卸载程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在移除 EventLog 源 RegularMailService。
+正在从系统中移除服务 RegularMailService...
+已成功地从系统中移除服务 RegularMailService。
+试图停止服务 RegularMailService。
+正在卸载程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在移除 EventLog 源 RegularMailService。
+警告: 源 RegularMailService 未在本地计算机上注册。
+正在从系统中移除服务 RegularMailService...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务并未以已安装的服务存在。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在安装程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   i = 
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在安装服务 RegularMailService...
+已成功安装服务 RegularMailService。
+正在日志 Application 中创建 EventLog 源 RegularMailService...
+正在提交程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   i = 
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在卸载程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在移除 EventLog 源 RegularMailService。
+正在从系统中移除服务 RegularMailService...
+已成功地从系统中移除服务 RegularMailService。
+正在安装程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   i = 
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在安装服务 RegularMailService...
+已成功安装服务 RegularMailService。
+正在日志 Application 中创建 EventLog 源 RegularMailService...
+正在提交程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   i = 
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在卸载程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在移除 EventLog 源 RegularMailService。
+正在从系统中移除服务 RegularMailService...
+已成功地从系统中移除服务 RegularMailService。
+正在安装程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   i = 
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在安装服务 RegularMailService...
+已成功安装服务 RegularMailService。
+正在日志 Application 中创建 EventLog 源 RegularMailService...
+正在提交程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   i = 
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在卸载程序集“C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.exe
+   logfile = C:\Documents and Settings\ligf3\My Documents\Dropbox\MyCode\RegularMail\RegularMail.Service\bin\Debug\RegularMail.Service.InstallLog
+正在移除 EventLog 源 RegularMailService。
+正在从系统中移除服务 RegularMailService...
+已成功地从系统中移除服务 RegularMailService。
+试图停止服务 RegularMailService。
